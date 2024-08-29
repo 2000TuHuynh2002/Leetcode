@@ -6,6 +6,7 @@ class Solution(object):
         :rtype: List[int]
 
         """
+        
         for idx, num in enumerate(nums):
             i = 1
             while idx+i < len(nums):
