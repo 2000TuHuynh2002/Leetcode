@@ -42,3 +42,21 @@ You can return the answer in any order.
 <br/>
 
 ## III. Solution
+
+- The main idea is brute-force.
+- We have the first element `a`, the second element `b` and the `result` represents the sum of `a` and `b`.
+- The solution includes 2 loops:
+  - **Outer Loop (Iterating a):** The first loop fixes one number `a` as a candidate from the array.
+  - **Inner Loop (Iterating b):** The second loop dynamically tests all subsequent numbers as candidates for `b`.
+- First iteration: fix `a` = 1 and loop over the remaining elements for `b`.
+  <div align="center" style="margin-bottom:6px">
+    <img src="./assets/img-001.svg" loading="lazy" width=60%>
+  </div>
+- If we can find the `result` that meets the requirement, fix `a` with it's next number (which means `a` = 2) and loop over the remaining elements for `b`.
+  <div align="center" style="margin-bottom:6px">
+    <img src="./assets/img-002.svg" loading="lazy" width=60%>
+  </div align="center">
+- Repeating the process until we found the correct answer.
+  <div align="center" style="margin-bottom:6px">
+    <img src="./assets/img-003.svg" loading="lazy" width=60%>
+  </div>
