@@ -50,13 +50,13 @@ You can return the answer in any order.
   - **Inner Loop (Iterating b):** The second loop dynamically tests all subsequent numbers as candidates for `b`.
 - First iteration: fix `a` = 1 and loop over the remaining elements for `b`.
   <div align="center" style="margin-bottom:6px">
-    <img src="./assets/img-001.svg" loading="lazy" width=60%>
+    <img src="./assets/img-0001-001.svg" loading="lazy" width=60%>
   </div>
 - If we can find the `result` that meets the requirement, fix `a` with it's next number (which means `a` = 2) and loop over the remaining elements for `b`.
   <div align="center" style="margin-bottom:6px">
-    <img src="./assets/img-002.svg" loading="lazy" width=60%>
+    <img src="./assets/img-0001-002.svg" loading="lazy" width=60%>
   </div align="center">
 - Repeating the process until we found the correct answer.
   <div align="center" style="margin-bottom:6px">
-    <img src="./assets/img-003.svg" loading="lazy" width=60%>
+    <img src="./assets/img-0001-003.svg" loading="lazy" width=60%>
   </div>
