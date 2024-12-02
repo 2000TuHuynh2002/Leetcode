@@ -39,11 +39,11 @@ Given an integer `x`, return `true` _if `x` is a <span style="color:#0a83fe">
 
 ## III. Solution
 
-- We simply divide the input number into 2 symmetrical parts. In turn, we compare the numbers from front to back of the 1st part with the numbers from back to front of the 2nd part. If every pair of the comparison is the same, return **True**.
+- We simply divide the input number into 2 symmetrical parts. In turn, we compare the numbers from front to back of the 1st part with the numbers from back to front of the 2nd part. If every pair of the comparison is the same, return `True`.
   <div align="center" style="margin-bottom:6px">
     <img src="./assets/img-0009-001.svg" loading="lazy" width=30%>
   </div>
-- If any pair of the comparison is not the same, return **False**.
+- If any pair of the comparison is not the same, return `False`.
   <div align="center" style="margin-bottom:6px">
     <img src="./assets/img-0009-002.svg" loading="lazy" width=30%>
   </div align="center">

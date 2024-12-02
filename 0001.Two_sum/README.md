@@ -16,7 +16,7 @@ You can return the answer in any order.
 
 - 2 <= nums.length <= 10<sup>4</sup>
 - -10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>
-- -10<sup>9</sup> <= target <= 10<sup>9</sup>
+- -10<sup>9</sup><= target <= 10<sup>9</sup>
 - **Only one valid answer exists.**
 
 <br/>
@@ -48,15 +48,15 @@ You can return the answer in any order.
 - The solution includes 2 loops:
   - **Outer Loop (Iterating a):** The first loop fixes one number `a` as a candidate from the array.
   - **Inner Loop (Iterating b):** The second loop dynamically tests all subsequent numbers as candidates for `b`.
-- First iteration: fix `a` = 1 and loop over the remaining elements for `b`.
+- First iteration: fix `a = 1` and loop over the remaining elements for `b`.
   <div align="center" style="margin-bottom:6px">
     <img src="./assets/img-0001-001.svg" loading="lazy" width=60%>
   </div>
-- If we can find the `result` that meets the requirement, fix `a` with it's next number (which means `a` = 2) and loop over the remaining elements for `b`.
+- If we can find the `result` that meets the requirement, fix `a` with it's next number (which means `a = 2`) and loop over the remaining elements for `b`.
   <div align="center" style="margin-bottom:6px">
     <img src="./assets/img-0001-002.svg" loading="lazy" width=60%>
   </div align="center">
-- Repeating the process until we found the correct answer.
+- Repeat the process until the correct answer is found.
   <div align="center" style="margin-bottom:6px">
     <img src="./assets/img-0001-003.svg" loading="lazy" width=60%>
   </div>
