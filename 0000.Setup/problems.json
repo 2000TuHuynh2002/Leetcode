@@ -1,0 +1,298 @@
+{
+  "problems": [
+    {
+      "id": "0001",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Two Sum",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0002",
+      "status": "Completed",
+      "level": "Medium",
+      "title": "Add Two Numbers",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0009",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Palindrome Number",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0013",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Roman to Integer",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0014",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Longest Common Prefix",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0020",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Valid Parentheses",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0028",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Find the Index of the First Occurrence in a String",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0058",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Length of Last Word",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0066",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Plus One",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0067",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Add Binary",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0125",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Valid Palindrome",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0168",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Excel Sheet Column Title",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0171",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Excel Sheet Column Number",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0193",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Valid Phone Numbers",
+      "languages": ["Bash"]
+    },
+    {
+      "id": "0195",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Tenth Line",
+      "languages": ["Bash"]
+    },
+    {
+      "id": "0197",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Rising Temperature",
+      "languages": ["SQL"]
+    },
+    {
+      "id": "0205",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Isomorphic Strings",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0242",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Valid Anagram",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0570",
+      "status": "Completed",
+      "level": "Medium",
+      "title": "Managers with at Least 5 Direct Reports",
+      "languages": ["SQL"]
+    },
+    {
+      "id": "0577",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Employee Bonus",
+      "languages": ["SQL"]
+    },
+    {
+      "id": "0584",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Find Customer Referee",
+      "languages": ["SQL"]
+    },
+    {
+      "id": "0584",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Big Countries",
+      "languages": ["SQL"]
+    },
+    {
+      "id": "0674",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Longest Continuous Increasing Subsequence",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0693",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Binary Number with Alternating Bits",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0884",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Uncommon Words from Two Sentences",
+      "languages": ["Python"]
+    },
+    {
+      "id": "0896",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Monotonic Array",
+      "languages": ["Python"]
+    },
+    {
+      "id": "1068",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Product Sales Analysis I",
+      "languages": ["SQL"]
+    },
+    {
+      "id": "1148",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Article Views I",
+      "languages": ["SQL"]
+    },
+    {
+      "id": "1280",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Students and Examinations",
+      "languages": ["SQL"]
+    },
+    {
+      "id": "1346",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Check If N and Its Double Exist",
+      "languages": ["Python"]
+    },
+    {
+      "id": "1378",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Replace Employee ID With The Unique Identifier",
+      "languages": ["SQL"]
+    },
+    {
+      "id": "1436",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Destination City",
+      "languages": ["Python"]
+    },
+    {
+      "id": "1455",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+      "languages": ["Python"]
+    },
+    {
+      "id": "1464",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Maximum Product of Two Elements in an Array",
+      "languages": ["Python"]
+    },
+    {
+      "id": "1581",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Customer Who Visited but Did Not Make Any Transactions",
+      "languages": ["SQL"]
+    },
+    {
+      "id": "1582",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Special Positions in a Binary Matrix",
+      "languages": ["Python"]
+    },
+    {
+      "id": "1661",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Average Time of Process per Machine",
+      "languages": ["SQL"]
+    },
+    {
+      "id": "1683",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Invalid Tweets",
+      "languages": ["SQL"]
+    },
+    {
+      "id": "1757",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Recyclable and Low Fat Products",
+      "languages": ["SQL"]
+    },
+    {
+      "id": "2357",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Make Array Zero by Subtracting Equal Amounts",
+      "languages": ["Python"]
+    },
+    {
+      "id": "2482",
+      "status": "Completed",
+      "level": "Medium",
+      "title": "Difference Between Ones and Zeros in Row and Column",
+      "languages": ["Python"]
+    },
+    {
+      "id": "2601",
+      "status": "Completed",
+      "level": "Medium",
+      "title": "Prime Subtraction Operation",
+      "languages": ["Python"]
+    }
+  ]
+}
