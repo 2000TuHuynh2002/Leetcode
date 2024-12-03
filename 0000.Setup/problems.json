@@ -295,6 +295,13 @@
       "languages": ["SQL"]
     },
     {
+      "id": "1934",
+      "status": "Completed",
+      "level": "Medium",
+      "title": "Confirmation Rate",
+      "languages": ["SQL"]
+    },
+    {
       "id": "2109",
       "status": "Completed",
       "level": "Medium",
