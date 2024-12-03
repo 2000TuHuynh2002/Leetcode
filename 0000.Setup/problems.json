@@ -176,6 +176,13 @@
       "languages": ["SQL"]
     },
     {
+      "id": "0620",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Not Boring Movies",
+      "languages": ["SQL"]
+    },
+    {
       "id": "0674",
       "status": "Completed",
       "level": "Easy",
