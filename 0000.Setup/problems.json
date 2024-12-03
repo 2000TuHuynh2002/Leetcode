@@ -15,6 +15,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "0007",
+      "status": "Completed",
+      "level": "Medium",
+      "title": "Reverse Integer",
+      "languages": ["Python"]
+    },
+    {
       "id": "0009",
       "status": "Completed",
       "level": "Easy",
