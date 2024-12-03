@@ -43,6 +43,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "0026",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Remove Duplicates from Sorted Array",
+      "languages": ["Python"]
+    },
+    {
       "id": "0028",
       "status": "Completed",
       "level": "Easy",
