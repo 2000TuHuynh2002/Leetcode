@@ -274,6 +274,13 @@
       "languages": ["SQL"]
     },
     {
+      "id": "2109",
+      "status": "Completed",
+      "level": "Medium",
+      "title": "Adding Spaces to a String",
+      "languages": ["Python"]
+    },
+    {
       "id": "2357",
       "status": "Completed",
       "level": "Easy",
