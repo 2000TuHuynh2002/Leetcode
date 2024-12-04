@@ -335,6 +335,13 @@
       "level": "Medium",
       "title": "Prime Subtraction Operation",
       "languages": ["Python"]
+    },
+    {
+      "id": "2825",
+      "status": "Completed",
+      "level": "Medium",
+      "title": "Make String a Subsequence Using Cyclic Increments",
+      "languages": ["Python"]
     }
   ]
 }
