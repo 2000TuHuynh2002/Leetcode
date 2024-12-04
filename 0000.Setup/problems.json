@@ -225,6 +225,13 @@
       "languages": ["SQL"]
     },
     {
+      "id": "1251",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Average Selling Price",
+      "languages": ["SQL"]
+    },
+    {
       "id": "1280",
       "status": "Completed",
       "level": "Easy",
