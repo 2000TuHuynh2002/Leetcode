@@ -35,11 +35,11 @@ If there is no common prefix, return an empty string "".
 
 ## III. Solution
 
-- We compare every character in every word. If the comparison is the same, append the character to the `result-prefix`. Otherwise, return the `result-prefix`.
+- We compare every character in every word. If the comparison is the same, append the character to the `result_prefix`. Otherwise, return the `result_prefix`.
   <div align="center" style="margin-bottom:6px">
     <img src="./assets/img-0014-001.svg" loading="lazy" width=40%>
   </div>
-- With this logic, if the loop is stopped at the first iteration, the `result-prefix` will return `""`.
+- With this logic, if the loop is stopped at the first iteration, the `result_prefix` will return `""`.
   <div align="center" style="margin-bottom:6px">
     <img src="./assets/img-0014-002.svg" loading="lazy" width=40%>
   </div align="center">
