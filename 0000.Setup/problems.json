@@ -232,6 +232,13 @@
       "languages": ["SQL"]
     },
     {
+      "id": "1211",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Queries Quality and Percentage",
+      "languages": ["SQL"]
+    },
+    {
       "id": "1251",
       "status": "Completed",
       "level": "Easy",
