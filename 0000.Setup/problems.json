@@ -330,6 +330,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "2337",
+      "status": "Completed",
+      "level": "Medium",
+      "title": "Move Pieces to Obtain a String",
+      "languages": ["Python"]
+    },
+    {
       "id": "2357",
       "status": "Completed",
       "level": "Easy",
