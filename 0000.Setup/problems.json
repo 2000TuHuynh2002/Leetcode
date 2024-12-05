@@ -295,6 +295,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "1633",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Percentage of Users Attended a Contest",
+      "languages": ["SQL"]
+    },
+    {
       "id": "1661",
       "status": "Completed",
       "level": "Easy",
