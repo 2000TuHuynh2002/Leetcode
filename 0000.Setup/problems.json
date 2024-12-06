@@ -225,6 +225,13 @@
       "languages": ["SQL"]
     },
     {
+      "id": "1141",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "User Activity for the Past 30 Days I",
+      "languages": ["SQL"]
+    },
+    {
       "id": "1148",
       "status": "Completed",
       "level": "Easy",
