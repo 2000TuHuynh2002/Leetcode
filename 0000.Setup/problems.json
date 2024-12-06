@@ -365,6 +365,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "2554",
+      "status": "Completed",
+      "level": "Medium",
+      "title": "Maximum Number of Integers to Choose From a Range I",
+      "languages": ["Python"]
+    },
+    {
       "id": "2601",
       "status": "Completed",
       "level": "Medium",
