@@ -351,6 +351,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "2356",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Number of Unique Subjects Taught by Each Teacher",
+      "languages": ["SQL"]
+    },
+    {
       "id": "2357",
       "status": "Completed",
       "level": "Easy",
