@@ -15,6 +15,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "0003",
+      "status": "Completed",
+      "level": "Medium",
+      "title": "Longest Substring Without Repeating Characters",
+      "languages": ["Python"]
+    },
+    {
       "id": "0007",
       "status": "Completed",
       "level": "Medium",
