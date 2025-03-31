@@ -29,6 +29,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "0006",
+      "status": "Completed",
+      "level": "Medium",
+      "title": "Zigzag Conversion",
+      "languages": ["Python"]
+    },
+    {
       "id": "0007",
       "status": "Completed",
       "level": "Medium",
