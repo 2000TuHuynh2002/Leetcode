@@ -120,6 +120,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "0069",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Sqrt(x)",
+      "languages": ["Python"]
+    },
+    {
       "id": "0125",
       "status": "Completed",
       "level": "Easy",
