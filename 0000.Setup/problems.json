@@ -127,6 +127,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "0121",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Best Time to Buy and Sell Stock",
+      "languages": ["Python"]
+    },
+    {
       "id": "0125",
       "status": "Completed",
       "level": "Easy",
