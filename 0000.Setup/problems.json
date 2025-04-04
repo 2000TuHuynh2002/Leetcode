@@ -197,6 +197,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "0290",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Word Pattern",
+      "languages": ["Python"]
+    },
+    {
       "id": "0570",
       "status": "Completed",
       "level": "Medium",
