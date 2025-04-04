@@ -141,6 +141,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "0136",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Single Number",
+      "languages": ["Python"]
+    },
+    {
       "id": "0168",
       "status": "Completed",
       "level": "Easy",
