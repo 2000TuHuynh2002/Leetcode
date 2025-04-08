@@ -454,6 +454,13 @@
       "level": "Medium",
       "title": "Make String a Subsequence Using Cyclic Increments",
       "languages": ["Python"]
+    },
+    {
+      "id": "3396",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+      "languages": ["Python"]
     }
   ]
 }
