@@ -204,6 +204,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "0344",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Reverse String",
+      "languages": ["Python"]
+    },
+    {
       "id": "0570",
       "status": "Completed",
       "level": "Medium",
