@@ -463,6 +463,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "2843",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Count Symmetric Integers",
+      "languages": ["Python"]
+    },
+    {
       "id": "3396",
       "status": "Completed",
       "level": "Easy",
