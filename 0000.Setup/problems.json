@@ -36,6 +36,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "0005",
+      "status": "Completed",
+      "level": "Medium",
+      "title": "Longest Palindromic Substring",
+      "languages": ["Python"]
+    },
+    {
       "id": "0007",
       "status": "Completed",
       "level": "Medium",
