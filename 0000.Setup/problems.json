@@ -218,6 +218,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "0345",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Reverse Vowels of a String",
+      "languages": ["Python"]
+    },
+    {
       "id": "0570",
       "status": "Completed",
       "level": "Medium",
