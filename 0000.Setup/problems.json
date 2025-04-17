@@ -428,6 +428,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "2176",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Count Equal and Divisible Pairs in an Array",
+      "languages": ["Python"]
+    },
+    {
       "id": "2337",
       "status": "Completed",
       "level": "Medium",
