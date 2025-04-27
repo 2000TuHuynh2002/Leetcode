@@ -491,6 +491,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "3392",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Count Subarrays of Length Three With a Condition",
+      "languages": ["Python"]
+    },
+    {
       "id": "3396",
       "status": "Completed",
       "level": "Easy",
