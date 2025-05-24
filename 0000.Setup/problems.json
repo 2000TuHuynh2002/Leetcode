@@ -498,6 +498,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "2942",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Find Words Containing Character",
+      "languages": ["Python"]
+    },
+    {
       "id": "3024",
       "status": "Completed",
       "level": "Easy",
