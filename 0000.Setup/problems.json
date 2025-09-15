@@ -559,6 +559,13 @@
       "level": "Easy",
       "title": "Minimum Number of Operations to Make Elements in Array Distinct",
       "languages": ["Python"]
+    },
+    {
+      "id": "3541",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Find Most Frequent Vowel and Consonant",
+      "languages": ["Python"]
     }
   ]
 }
