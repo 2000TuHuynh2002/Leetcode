@@ -449,6 +449,13 @@
       "languages": ["SQL"]
     },
     {
+      "id": "1935",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Maximum Number of Words You Can Type",
+      "languages": ["Python"]
+    },
+    {
       "id": "2109",
       "status": "Completed",
       "level": "Medium",
