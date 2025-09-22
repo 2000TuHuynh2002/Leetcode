@@ -547,6 +547,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "3005",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Count Elements With Maximum Frequency",
+      "languages": ["Python"]
+    },
+    {
       "id": "3024",
       "status": "Completed",
       "level": "Easy",
