@@ -1,11 +1,8 @@
 # 0013. Roman to Integer
-
 ![Static Badge](https://img.shields.io/badge/Level-Easy-42c6c2)
 
-<br/>
 
 ## I. Problem:
-
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D` and `M`.
 
 > | Symbol | Value |
@@ -29,37 +26,29 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 Given a roman numeral, convert it to an integer.
 
 ### Constraints:
-
 - 1 <= s.length <= 15
 - s contains only the characters `('I', 'V', 'X', 'L', 'C', 'D', 'M')`.
 - It is guaranteed that `s` is a valid roman numeral in the range `[1, 3999]`.
 
-<br/>
 
 ## II. Examples:
-
 ### Example 1:
-
 > **Input:** s = "III"  
 > **Output:** 3  
 > **Explanation:** III = 3.
 
 ### Example 2:
-
 > **Input:** s = "LVIII"  
 > **Output:** 58  
 > **Explanation:** L = 50, V= 5, III = 3.
 
 ### Example 3:
-
 > **Input:** s = "MCMXCIV"  
 > **Output:** 1994  
 > **Explanation:** M = 1000, CM = 900, XC = 90 and IV = 4.
 
-<br/>
 
 ## III. Solution
-
 - In order to solve this problem, the Roman numeral rule should be rewritten as follows:
   <div align="center" style="margin-bottom:6px">
     <img src="./assets/img-0013-001.svg" loading="lazy" width=60%>
