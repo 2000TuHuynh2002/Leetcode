@@ -442,6 +442,13 @@
       "languages": ["SQL"]
     },
     {
+      "id": "1716",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Calculate Money in Leetcode Bank",
+      "languages": ["Python"]
+    },
+    {
       "id": "1757",
       "status": "Completed",
       "level": "Easy",
