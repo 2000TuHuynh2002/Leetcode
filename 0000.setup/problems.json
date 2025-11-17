@@ -386,6 +386,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "1437",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Check If All 1's Are at Least Length K Places Away",
+      "languages": ["Python"]
+    },
+    {
       "id": "1455",
       "status": "Completed",
       "level": "Easy",
