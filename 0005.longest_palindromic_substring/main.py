@@ -10,7 +10,7 @@ class Solution:
                 if right - left + 1 > max_length:
                     max_length = right - left + 1
                     result = s[left:right + 1]
-                    
+
                 left -= 1
                 right += 1
 
@@ -20,7 +20,7 @@ class Solution:
                 if right - left + 1 > max_length:
                     max_length = right - left + 1
                     result = s[left:right + 1]
-                    
+
                 left -= 1
                 right += 1
 

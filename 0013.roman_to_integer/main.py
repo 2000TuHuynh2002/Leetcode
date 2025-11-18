@@ -5,6 +5,6 @@ class Solution:
         result = 0
 
         for key, value in roman2int.items():
-            result += s.count(key)*value
+            result += s.count(key) * value
 
         return result
