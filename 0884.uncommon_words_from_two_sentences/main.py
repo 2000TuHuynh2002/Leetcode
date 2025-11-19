@@ -1,11 +1,5 @@
 class Solution(object):
-    def uncommonFromSentences(self, s1, s2):
-        """
-        :type s1: str
-        :type s2: str
-        :rtype: List[str]
-        """
-
+    def uncommonFromSentences(self, s1: str, s2: str) -> List[str]:
         new_list = s1.split() + s2.split()
         result = []
 

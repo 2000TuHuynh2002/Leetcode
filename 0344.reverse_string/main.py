@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
+
         left = 0
         right = len(s) - 1
 
