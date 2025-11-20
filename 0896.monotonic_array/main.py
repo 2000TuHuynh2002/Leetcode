@@ -1,10 +1,5 @@
 class Solution(object):
-    def isMonotonic(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: bool
-        """
-        
+    def isMonotonic(self, nums: List[int]) -> bool:
         if nums[-1] - nums[0] >= 0:
             nums_copy = sorted(nums)
             return nums_copy == nums
