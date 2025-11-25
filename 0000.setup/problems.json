@@ -596,6 +596,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "3190",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+      "languages": ["Python"]
+    },
+    {
       "id": "3392",
       "status": "Completed",
       "level": "Easy",
