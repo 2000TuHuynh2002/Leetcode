@@ -14,5 +14,5 @@ class Solution:
         for n in num_dict.values():
             if n == max_val:
                 max_freq_count += max_val
-        
+
         return max_freq_count
