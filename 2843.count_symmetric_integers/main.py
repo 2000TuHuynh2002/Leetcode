@@ -3,8 +3,10 @@ class Solution:
         s = str(n)
         if len(s) % 2 != 0:
             return False
-        sum_first_half = sum(int(digit) for digit in s[:len(s)//2])
-        sum_second_half = sum(int(digit) for digit in s[len(s)//2:])
+
+        sum_first_half = sum(int(digit) for digit in s[:len(s) // 2])
+        sum_second_half = sum(int(digit) for digit in s[len(s) // 2:])
+
         return sum_first_half == sum_second_half
 
     def countSymmetricIntegers(self, low: int, high: int) -> int:
