@@ -12,5 +12,5 @@ class Solution:
                 count = 0
             else:
                 count += 1
-        
+
         return True
