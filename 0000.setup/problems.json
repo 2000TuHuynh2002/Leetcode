@@ -617,6 +617,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "3512",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Minimum Operations to Make Array Sum Divisible by K",
+      "languages": ["Python"]
+    },
+    {
       "id": "3541",
       "status": "Completed",
       "level": "Easy",
