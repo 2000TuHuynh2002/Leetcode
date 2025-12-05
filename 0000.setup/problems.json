@@ -617,6 +617,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "3432",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Count Partitions with Even Sum Difference",
+      "languages": ["Go"]
+    },
+    {
       "id": "3512",
       "status": "Completed",
       "level": "Easy",
