@@ -1,4 +1,4 @@
-package countPartitions
+package leetcode3432
 
 func sumArray(numbers []int) int {
 	result := 0
