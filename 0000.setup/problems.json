@@ -414,6 +414,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "1523",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Count Odd Numbers in an Interval Range",
+      "languages": ["Go"]
+    },
+    {
       "id": "1581",
       "status": "Completed",
       "level": "Easy",
