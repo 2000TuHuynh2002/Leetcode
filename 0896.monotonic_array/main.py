@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def isMonotonic(self, nums: List[int]) -> bool:
         if nums[-1] - nums[0] >= 0:
             nums_copy = sorted(nums)
