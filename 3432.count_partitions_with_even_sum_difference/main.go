@@ -1,5 +1,7 @@
 package leetcode3432
 
+import ()
+
 func sumArray(numbers []int) int {
 	result := 0
 	for i := 0; i < len(numbers); i++ {
@@ -14,7 +16,7 @@ func countPartitions(nums []int) int {
 
 	for i := 1; i < numsLength; i++ {
 		if (sumArray(nums[:i])+sumArray(nums[i:numsLength]))%2 == 0 {
-			count += 1
+			count++
 		}
 	}
 
