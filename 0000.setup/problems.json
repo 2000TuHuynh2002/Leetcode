@@ -470,6 +470,13 @@
       "languages": ["SQL"]
     },
     {
+      "id": "1925",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Count Square Sum Triples",
+      "languages": ["Go"]
+    },
+    {
       "id": "1934",
       "status": "Completed",
       "level": "Medium",
