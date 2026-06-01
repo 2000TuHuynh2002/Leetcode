@@ -9,8 +9,10 @@ class Solution:
                 for single_str in strs:
                     if single_str[idx] != current_char:
                         return result_prefix
+                    
                 idx += 1
                 result_prefix += current_char
+                
         except Exception as e:
             print(e)
             return result_prefix
