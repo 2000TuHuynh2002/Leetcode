@@ -505,6 +505,13 @@
       "languages": ["Python"]
     },
     {
+      "id": "2144",
+      "status": "Completed",
+      "level": "Easy",
+      "title": "Minimum Cost of Buying Candies With Discount",
+      "languages": ["Go"]
+    },
+    {
       "id": "2154",
       "status": "Completed",
       "level": "Easy",
